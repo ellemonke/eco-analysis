@@ -1,5 +1,5 @@
 # Global Ecological Impact by Country Development
-## Co-authored by Ellen Hsu, Alexis Sophie Kozak and Samita Limbu
+by Ellen Hsu, Alexis Sophie Kozak and Samita Limbu
 
 ## Project Description
 Our team is looking at the overall impact of population and land use on the ecological footprint per region in a global data set.  We are hoping to find correlations from HDI and GDP to overall footprints as well.
