@@ -1,6 +1,8 @@
 # Project Description
 Our team is looking at the overall impact of population and land use on the ecological footprint per region in a global data set.  We are hoping to find correlations from HDI and GDP to overall footprints as well.
 
+We used **Python, Pandas, NumPy, SciPy, and Matplotlib**.
+
 # Research Questions
 1. What types of land contribute more to ecological footprint? What is the relationship between type of land and total ecological footprint?
 2. How much biocapacity is each region using? How does their ecological footprint compare to their biocapacity?
