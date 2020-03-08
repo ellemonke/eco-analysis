@@ -9,6 +9,9 @@ Our team is looking at the overall impact of population and land use on the ecol
 5. Does a higher GDP have a correlation to a lower overall footprint?
 6. How does the USA compare to the global average as far as biodeficit?
 
+# Presentation
+https://ellemonke.github.io/eco-analysis/presentation.html
+
 # Data Set
 https://www.kaggle.com/footprintnetwork/ecological-footprint/<br>
 This data set represents the year 2016.
