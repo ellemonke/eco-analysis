@@ -1,5 +1,5 @@
 # Project Description
-Our team is looking at the overall impact of population and land use on the ecological footprint per region in a global data set.  We are hoping to find correlations from HDI and GDP to overall footprints as well.
+Our team looked at the overall impact of population and land use on the ecological footprint per region in a global data set.  We discovered correlations between HDI and GDP (indicators of a developed country) vs. Ecological Footprint.
 
 We used **Python, Pandas, NumPy, SciPy, and Matplotlib**.
 
